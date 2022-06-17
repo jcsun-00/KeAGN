@@ -1,0 +1,15 @@
+# VS Code 相关
+.vscode/
+
+# Python相关
+*__pycache__/
+
+# 数据相关
+data/*
+data.zip
+*.pickle
+!data/.gitkeep
+
+# 日志相关
+log/*
+!log/test.log
