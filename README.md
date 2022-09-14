@@ -1,4 +1,7 @@
 # 知识驱动的事件因果关系识别
++ KeAGN模型全称为Knowledge-enriched and Attention Guided Network，即富知识化与注意力引导网络
++ KeAGN模型由本人在毕业论文中提出，其主要应用于NLP领域中的句级因果关系识别
++ KeAGN模型改进自LSIN模型，LSIN模型详情可见[Knowledge-Enriched Event Causality Identification via Latent Structure Induction Networks](https://aclanthology.org/2021.acl-long.376/)
 
 ## Step 0: 准备数据  
 1. 下载数据集 (建议略过该步, 直接进行[2]和Step 3)  
